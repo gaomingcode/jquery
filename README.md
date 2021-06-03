@@ -1,5 +1,17 @@
-jQuery Component
-================
+# jQuery Component
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery.svg)](https://github.com/gaomingcode/jquery)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery)](https://github.com/gaomingcode/jquery)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jquery)](https://github.com/gaomingcode/jquery)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.jquery
+```
+###
 
 Shim [repository](https://github.com/components/jquery) for the [jQuery](http://jquery.com).
 
