@@ -1,9 +1,22 @@
 {
     "name": "gaomingcode/jquery",
     "description": "jQuery JavaScript Library",
-    "type": "component",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery"
+    ],
     "homepage": "http://jquery.com",
-    "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "JS Foundation and other contributors",
+            "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
+        }
+    ],
     "support": {
         "irc": "irc://irc.freenode.org/jquery",
         "issues": "https://github.com/jquery/jquery/issues",
@@ -11,12 +24,6 @@
         "wiki": "http://docs.jquery.com/",
         "source": "https://github.com/jquery/jquery"
     },
-    "authors": [
-        {
-            "name": "JS Foundation and other contributors",
-            "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
-        }
-    ],
     "extra": {
         "component": {
             "scripts": [
