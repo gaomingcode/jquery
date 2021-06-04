@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery.svg)](https://github.com/gaomingcode/jquery)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery)](https://github.com/gaomingcode/jquery)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jquery)](https://github.com/gaomingcode/jquery)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery)](https://github.com/gaomingcode/jquery)
 
 ## Installation
 
