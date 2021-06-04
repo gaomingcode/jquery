@@ -9,7 +9,7 @@
 ### Composer
 
 ```
-composer require gaomingcode/jquery.jquery
+composer require gaomingcode/jquery
 ```
 
 ## ReadMe from Origin
